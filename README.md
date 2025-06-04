@@ -1,4 +1,4 @@
-# UEA_Estructura De Datos No Lineales
+# UEA_Estructura De Datos Lineales
 
 📖 Este proyecto es una aplicación de consola en lenguaje C que simula la gestión del contenido de un refrigerador. Utiliza listas simplemente enlazadas para organizar y manipular diferentes categorías de alimentos.
 

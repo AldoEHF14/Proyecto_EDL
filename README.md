@@ -1,4 +1,4 @@
-# UEA_Estructura De Datos Lineales
+# UEA: Estructura De Datos Lineales
 
 📖 Este proyecto es una aplicación de consola en lenguaje C que simula la gestión del contenido de un refrigerador. Utiliza listas simplemente enlazadas para organizar y manipular diferentes categorías de alimentos.
 
@@ -18,13 +18,12 @@ Bryan Alexander Gómez Miranda. <br>
 ## 📌  Funcionalidades: <br>
 El programa permite al usuario administrar seis tipos de alimentos:
 
-Bebidas <br>
+- Bebidas <br>
 - Embutidos <br>
 - Frutas <br>
 - Lácteos <br>
 - Proteínas <br>
 - Verduras <br> 
-
 
 Cada tipo de alimento se gestiona mediante su propia lista enlazada. Para cada lista, se pueden realizar las siguientes operaciones:
 
@@ -39,7 +38,7 @@ Cada tipo de alimento se gestiona mediante su propia lista enlazada. Para cada l
 
 Cada alimento contiene los siguientes campos:
 
- Tipo de alimento
+- Tipo de alimento
 - Nombre
 - Precio de compra
 - Fecha de compra
@@ -47,7 +46,6 @@ Cada alimento contiene los siguientes campos:
 - Estatus de disponibilidad (1 = disponible, 0 = no disponible)
 
 El programa está diseñado con una interfaz interactiva por consola que guía al usuario paso a paso, lo que lo hace ideal para fines educativos o como base para sistemas de inventario más complejos.
-
 Este proyecto también refuerza conocimientos en:
 
 - Uso de memoria dinámica en C
@@ -57,7 +55,7 @@ Este proyecto también refuerza conocimientos en:
 
 ✅ Es una práctica completa para el manejo de estructuras de datos dinámicas en C, aplicadas a un contexto realista.
 
-## 📝 Ejecución
+## ▶️ Ejecución
 
 ```bash
 gcc ProyectoFinal.c listaS.c -o inventario

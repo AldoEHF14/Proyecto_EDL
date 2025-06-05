@@ -1,13 +1,13 @@
 # UEA: Estructura De Datos Lineales
+## Gestor de Inventario de Alimentos (Listas Enlazadas)
 
 📖 Este proyecto es una aplicación de consola en lenguaje C que simula la gestión del contenido de un refrigerador. Utiliza listas simplemente enlazadas para organizar y manipular diferentes categorías de alimentos.
 
-## 👥 Integrantes: <br>
+### 👥 Integrantes: <br>
 Aldo Enrique Hernández Flores. <br>
 Bryan Alexander Gómez Miranda. <br>
 
-## 🧑‍💻 Estructura del Proyecto
-
+### 🧑‍💻 Estructura del Proyecto
 
 | Archivo           | Descripción                                                                                                   |
 | ----------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@ Bryan Alexander Gómez Miranda. <br>
 | `listaS.c`        | Implementación de las funciones para manipular la lista enlazada (insertar, eliminar, buscar, ordenar, etc.). |
 | `ProyectoFinal.c` | Archivo principal que contiene la interfaz por consola para gestionar el refrigerador.                        |
 
-## 📌  Funcionalidades: <br>
+### 📌  Funcionalidades: <br>
 El programa permite al usuario administrar seis tipos de alimentos:
 
 - Bebidas <br>
@@ -55,7 +55,7 @@ Este proyecto también refuerza conocimientos en:
 
 ✅ Es una práctica completa para el manejo de estructuras de datos dinámicas en C, aplicadas a un contexto realista.
 
-## ▶️ Ejecución
+### ▶️ Ejecución
 
 ```bash
 gcc ProyectoFinal.c listaS.c -o inventario

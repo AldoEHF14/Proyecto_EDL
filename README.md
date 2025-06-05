@@ -1,6 +1,6 @@
 # UEA: Estructura De Datos Lineales
-## Gestor de Inventario de Alimentos (Listas Enlazadas)
 
+## 🧊 Gestor de Inventario de Alimentos (Lista Enlazada en C)
 📖 Este proyecto es una aplicación de consola en lenguaje C que simula la gestión del contenido de un refrigerador. Utiliza listas simplemente enlazadas para organizar y manipular diferentes categorías de alimentos.
 
 ### 👥 Integrantes: <br>

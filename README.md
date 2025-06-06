@@ -3,9 +3,13 @@
 ## 🧊 Gestor de Inventario de Alimentos (Lista Enlazada en C)
 📖 Este proyecto es una aplicación de consola en lenguaje C que simula la gestión del contenido de un refrigerador. Utiliza listas simplemente enlazadas para organizar y manipular diferentes categorías de alimentos.
 
+---
+
 ### 👥 Integrantes: <br>
 Aldo Enrique Hernández Flores. <br>
 Bryan Alexander Gómez Miranda. <br>
+
+---
 
 ### 🧑‍💻 Estructura del Proyecto
 
@@ -14,6 +18,8 @@ Bryan Alexander Gómez Miranda. <br>
 | `listaS.h`        | Definiciones de estructuras (`Alimento`, `Nodo`, `ListaS`) y prototipos de funciones.                         |
 | `listaS.c`        | Implementación de las funciones para manipular la lista enlazada (insertar, eliminar, buscar, ordenar, etc.). |
 | `ProyectoFinal.c` | Archivo principal que contiene la interfaz por consola para gestionar el refrigerador.                        |
+
+---
 
 ### 📌  Funcionalidades: <br>
 El programa permite al usuario administrar seis tipos de alimentos:
@@ -35,7 +41,6 @@ Cada tipo de alimento se gestiona mediante su propia lista enlazada. Para cada l
 - 🧹 Vaciar lista
 - 🚪 Salir de la categoría
 
-
 Cada alimento contiene los siguientes campos:
 
 - Tipo de alimento
@@ -54,6 +59,8 @@ Este proyecto también refuerza conocimientos en:
 - Implementación de algoritmos de búsqueda y ordenamiento (binario, burbuja, quicksort)
 
 ✅ Es una práctica completa para el manejo de estructuras de datos dinámicas en C, aplicadas a un contexto realista.
+
+---
 
 ### ▶️ Ejecución
 

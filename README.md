@@ -6,8 +6,8 @@
 ---
 
 ### 👥 Integrantes: <br>
-Aldo Enrique Hernández Flores. <br>
-Bryan Alexander Gómez Miranda. <br>
+- Aldo Enrique Hernández Flores. <br>
+- Bryan Alexander Gómez Miranda. <br>
 
 ---
 

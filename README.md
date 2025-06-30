@@ -5,22 +5,6 @@
 
 ---
 
-### 👥 Integrantes: <br>
-- Aldo Enrique Hernández Flores. <br>
-- Bryan Alexander Gómez Miranda. <br>
-
----
-
-### 🧑‍💻 Estructura del Proyecto
-
-| Archivo           | Descripción                                                                                                   |
-| ----------------- | ------------------------------------------------------------------------------------------------------------- |
-| `listaS.h`        | Definiciones de estructuras (`Alimento`, `Nodo`, `ListaS`) y prototipos de funciones.                         |
-| `listaS.c`        | Implementación de las funciones para manipular la lista enlazada (insertar, eliminar, buscar, ordenar, etc.). |
-| `ProyectoFinal.c` | Archivo principal que contiene la interfaz por consola para gestionar el refrigerador.                        |
-
----
-
 ### 📌  Funcionalidades: <br>
 El programa permite al usuario administrar seis tipos de alimentos:
 
@@ -61,6 +45,17 @@ Este proyecto también refuerza conocimientos en:
 ✅ Es una práctica completa para el manejo de estructuras de datos dinámicas en C, aplicadas a un contexto realista.
 
 ---
+
+### 🧑‍💻 Estructura del Proyecto
+
+| Archivo           | Descripción                                                                                                   |
+| ----------------- | ------------------------------------------------------------------------------------------------------------- |
+| `listaS.h`        | Definiciones de estructuras (`Alimento`, `Nodo`, `ListaS`) y prototipos de funciones.                         |
+| `listaS.c`        | Implementación de las funciones para manipular la lista enlazada (insertar, eliminar, buscar, ordenar, etc.). |
+| `ProyectoFinal.c` | Archivo principal que contiene la interfaz por consola para gestionar el refrigerador.                        |
+
+---
+
 
 ### ▶️ Ejecución
 

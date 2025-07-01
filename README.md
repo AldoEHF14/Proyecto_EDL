@@ -34,8 +34,7 @@ Cada alimento contiene los siguientes campos:
 - Fecha de caducidad
 - Estatus de disponibilidad (1 = disponible, 0 = no disponible)
 
-El programa está diseñado con una interfaz interactiva por consola que guía al usuario paso a paso, lo que lo hace ideal para fines educativos o como base para sistemas de inventario más complejos.
-Este proyecto también refuerza conocimientos en:
+El programa está diseñado con una interfaz interactiva por consola que guía al usuario paso a paso.Este proyecto también refuerza conocimientos en:
 
 - Uso de memoria dinámica en C
 - Diseño y manejo de estructuras (`struct`)

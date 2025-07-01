@@ -17,7 +17,7 @@ El programa permite al usuario administrar seis tipos de alimentos:
 
 Cada tipo de alimento se gestiona mediante su propia lista enlazada. Para cada lista, se pueden realizar las siguientes operaciones:
 
-- 🟢 Agregar nuevos alimentos
+- ✅ Agregar nuevos alimentos
 - ❌ Eliminar alimento por precio
 - 🔍 Buscar alimento por precio (búsqueda binaria iterativa o recursiva)
 - 📋 Visualizar el contenido actual del refrigerador
@@ -40,8 +40,6 @@ El programa está diseñado con una interfaz interactiva por consola que guía a
 - Diseño y manejo de estructuras (`struct`)
 - Manipulación de listas enlazadas
 - Implementación de algoritmos de búsqueda y ordenamiento (binario, burbuja, quicksort)
-
-✅ Es una práctica completa para el manejo de estructuras de datos dinámicas en C, aplicadas a un contexto realista.
 
 ---
 
